@@ -151,4 +151,3 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 *If you find this repository useful, please consider giving it a ⭐ — it helps others discover it!*
-![GIF description]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmUxbjU1ZHM3MWU1a3hiNjZqdGd3MXlmd3dzYWlrejY2YWhoZ2ZvZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tu33e5fsyK6D6/giphy.gif])
