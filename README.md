@@ -16,6 +16,8 @@ A collection of numerical physics simulations implemented from scratch in Python
 
 Explores deterministic chaos through the famous **Lorenz attractor** — a system of three coupled ODEs originally derived to model atmospheric convection. Demonstrates sensitive dependence on initial conditions (the "butterfly effect") and visualizes the iconic strange attractor in 3D phase space.
 
+![Demo](./Results/mu=1e-8.gif)
+
 **Key concepts:** Strange attractors · Lyapunov exponents · Phase space trajectories · Sensitivity to initial conditions
 
 ---
