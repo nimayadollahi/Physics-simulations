@@ -19,13 +19,13 @@ Explores deterministic chaos through the famous **Lorenz attractor** — a syste
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="./results/Fig 5.1 .png" width="95%">
+      <img src="./Results/Fig 5.1 .png" width="95%">
       <br>
       <b>Lorenz attractor</b>
       <br>
     </td>
     <td align="center" width="50%">
-      <img src="./results/Fig 1.3 .gif" width="95%">
+      <img src="./Results/Fig 1.3 .gif" width="95%">
       <br>
       <b>Three body problem</b>
       <br>
