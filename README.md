@@ -154,12 +154,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📟 Author
 
 **Nima Yadollahi**
-<a href="https://www.linkedin.com/in/nima-yadollahi-669893279/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30" alt="LinkedIn">
-</a>
-<a href="https://github.com/nimayadollahi" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nima-yadollahi-669893279/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nimayadollahi)
 
 ---
 
