@@ -47,6 +47,8 @@ Simulates the **2D Ising model** of ferromagnetism using the Metropolis-Hastings
 
 Implements a **molecular dynamics simulation** using the **Verlet integration algorithm** to evolve particle positions and velocities over time under a Lennard-Jones potential. Tracks thermodynamic observables like total energy and temperature, and demonstrates how microscopic particle interactions give rise to macroscopic behavior.
 
+![Demo4](./Results/MD_simulation_for_50_particle.gif)
+
 **Key concepts:** Verlet integration · Lennard-Jones potential · Energy conservation · Newton's equations of motion
 
 ---
@@ -64,6 +66,8 @@ Solves systems of **coupled ordinary differential equations** numerically, with 
 **File:** `laplace equation.ipynb`
 
 Solves the **Laplace equation** (∇²φ = 0) in 2D to find electrostatic potential distributions using iterative relaxation methods (Jacobi/Gauss-Seidel). Visualizes equipotential lines and electric field vectors for various boundary conditions.
+
+![Demo4](./Results/Potential.png)
 
 **Key concepts:** Finite difference method · Boundary value problems · Relaxation methods · Electrostatic potential
 
