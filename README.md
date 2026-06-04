@@ -151,3 +151,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 *If you find this repository useful, please consider giving it a ⭐ — it helps others discover it!*
+
+![Happy Stewie Griffin GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGk1YjAxd3BvcWU5dWwwMHFwNjZ5dWNkbnllOXBwazMzcjB2cnRnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlRWOxvtUYYAC7m/giphy.gif)
