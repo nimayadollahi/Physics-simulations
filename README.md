@@ -153,7 +153,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📟 Author
 
-**Nima Yadollahi**
 [![LinkedIn](https://img.shields.io/badge/-Nima%20Yadollahi-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nima-yadollahi-669893279/)
 [![GitHub](https://img.shields.io/badge/-@nimayadollahi-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/nimayadollahi)
 ---
