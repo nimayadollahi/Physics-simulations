@@ -9,12 +9,29 @@ A collection of numerical physics simulations implemented from scratch in Python
 
 ---
 
-## 📂 Simulations
+## 📌 Simulations
 
 ### 🌀 Chaotic Dynamics & Lorenz System
 **File:** `chaotic dynamics.ipynb` · `Chaos (lorenz systems).pdf`
 
 Explores deterministic chaos through the famous **Lorenz attractor** — a system of three coupled ODEs originally derived to model atmospheric convection. Demonstrates sensitive dependence on initial conditions (the "butterfly effect") and visualizes the iconic strange attractor in 3D phase space.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./results/Fig 5.1 .png" width="95%">
+      <br>
+      <b>Lorenz attractor</b>
+      <br>
+    </td>
+    <td align="center" width="50%">
+      <img src="./results/Fig 1.3 .gif" width="95%">
+      <br>
+      <b>Three body problem</b>
+      <br>
+    </td>
+  </tr>
+</table>
 
 **Key concepts:** Strange attractors · Lyapunov exponents · Phase space trajectories · Sensitivity to initial conditions
 
@@ -65,7 +82,7 @@ Solves the **Laplace equation** (∇²φ = 0) in 2D to find electrostatic potent
 
 ---
 
-## 🛠️ Installation & Usage
+## 🔌 Installation & Usage
 
 ### Requirements
 
@@ -112,12 +129,6 @@ pip install numpy scipy matplotlib jupyter
 
 ---
 
-## 📚 Background & Motivation
-
-These simulations were developed as coursework for a **Numerical Simulation** course (Bachelor's in Physics). Each notebook is self-contained and written to be readable for anyone with a basic background in physics and Python. The goal is to bridge the gap between theoretical equations and their numerical implementation.
-
----
-
 ## 📁 Repository Structure
 
 ```
@@ -143,13 +154,13 @@ Physics-simulations/
 
 ---
 
-## 📄 License
+## 💳 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Author
+## 📟 Author
 
 **Nima Yadollahi**
 - GitHub: [@nimayadollahi](https://github.com/nimayadollahi)
