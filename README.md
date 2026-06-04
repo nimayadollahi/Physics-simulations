@@ -16,7 +16,7 @@ A collection of numerical physics simulations implemented from scratch in Python
 
 Explores deterministic chaos through the famous **Lorenz attractor** — a system of three coupled ODEs originally derived to model atmospheric convection. Demonstrates sensitive dependence on initial conditions (the "butterfly effect") and visualizes the iconic strange attractor in 3D phase space.
 
-![Demo](./Results/mu=1e-8.gif)
+![Demo1](./Results/Fig_5.1.png)
 
 **Key concepts:** Strange attractors · Lyapunov exponents · Phase space trajectories · Sensitivity to initial conditions
 
@@ -26,6 +26,8 @@ Explores deterministic chaos through the famous **Lorenz attractor** — a syste
 **File:** `Navier-Stokes.ipynb`
 
 Numerically solves the incompressible **Navier-Stokes equations** on a 2D grid to simulate viscous fluid flow. Implements pressure-velocity coupling and visualizes velocity fields and streamlines, giving insight into fundamental fluid dynamics behavior such as vortex formation.
+
+![Demo2](./Results/mu=1e-8.gif)
 
 **Key concepts:** Finite difference methods · Incompressible flow · Vorticity
 
