@@ -1,4 +1,4 @@
-# 🔬 Computational Physics Simulations
+# Computational Physics Simulations
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
@@ -14,7 +14,7 @@ A collection of numerical physics simulations implemented from scratch in Python
 ### 🌀 Chaotic Dynamics & Lorenz System
 **File:** `chaotic dynamics.ipynb` · `Chaos (lorenz systems).pdf`
 
-Explores deterministic chaos through the famous **Lorenz attractor** — a system of three coupled ODEs originally derived to model atmospheric convection. Demonstrates sensitive dependence on initial conditions (the "butterfly effect") and visualizes the iconic strange attractor in 3D phase space. Numerical integration is performed using Runge-Kutta methods.
+Explores deterministic chaos through the famous **Lorenz attractor** — a system of three coupled ODEs originally derived to model atmospheric convection. Demonstrates sensitive dependence on initial conditions (the "butterfly effect") and visualizes the iconic strange attractor in 3D phase space.
 
 **Key concepts:** Strange attractors · Lyapunov exponents · Phase space trajectories · Sensitivity to initial conditions
 
@@ -25,7 +25,7 @@ Explores deterministic chaos through the famous **Lorenz attractor** — a syste
 
 Numerically solves the incompressible **Navier-Stokes equations** on a 2D grid to simulate viscous fluid flow. Implements pressure-velocity coupling and visualizes velocity fields and streamlines, giving insight into fundamental fluid dynamics behavior such as vortex formation.
 
-**Key concepts:** Finite difference methods · Pressure-velocity coupling · Incompressible flow · Vorticity
+**Key concepts:** Finite difference methods · Incompressible flow · Vorticity
 
 ---
 
@@ -52,7 +52,7 @@ Implements a **molecular dynamics simulation** using the **Verlet integration al
 
 Solves systems of **coupled ordinary differential equations** numerically, with applications to coupled oscillators and other multi-body physics problems. Compares numerical solutions against analytical results and explores how coupling strength affects system behavior.
 
-**Key concepts:** ODE systems · RK4 integration · Coupled oscillators · Normal modes
+**Key concepts:** ODE systems · RK4 integration
 
 ---
 
@@ -99,7 +99,7 @@ pip install numpy scipy matplotlib jupyter
 
 ---
 
-## 🧠 Methods Summary
+## Methods Summary
 
 | Simulation | Numerical Method |
 |---|---|
@@ -123,22 +123,23 @@ These simulations were developed as coursework for a **Numerical Simulation** co
 ```
 Physics-simulations/
 │
-├── chaotic dynamics.ipynb          # Lorenz attractor & chaos
-├── Chaos (lorenz systems).pdf      # Supporting report
-├── Navier-Stokes.ipynb             # 2D fluid simulation
-├── ising model(ferromagnetism).ipynb  # Monte Carlo Ising model
-├── Verlet Algorithm.ipynb          # Molecular dynamics
-├── MD simulation.pdf               # MD supporting report
-├── Coupled Differential eq.ipynb   # Coupled ODE systems
-├── laplace equation.ipynb          # Electrostatic potential
+├── Chaos/
+│   ├── chaotic dynamics.ipynb
+│   └── Chaos (lorenz systems).pdf
+├── Fluid dynamics/
+│   └── Navier-Stokes.ipynb
+├── Phase transition/
+│   ├── ising model(ferromagnetism).ipynb
+│   └── ising model.pdf
+├── Molcular dynamics/
+│   ├── Verlet Algorithm.ipynb
+│   └── MD simulation.pdf
+├── ODEs/
+│   └── Coupled Differential eq.ipynb
+├── Electrostatics/
+│   └── laplace equation.ipynb
 └── README.md
 ```
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
